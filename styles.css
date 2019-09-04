@@ -115,3 +115,10 @@ footer{
   top: 10px;
   height: 27px;
 }
+h3.status{
+  padding-left: 15px;
+}
+p.status{
+  padding-left: 25px;
+  top: -5px;
+}
