@@ -116,9 +116,8 @@ footer{
   height: 27px;
 }
 h3.status{
-  padding-left: 15px;
+  padding-left: 5px;
 }
 p.status{
-  padding-left: 25px;
-  top: -5px;
+  padding-left: 15px;
 }
