@@ -83,7 +83,7 @@ sup{
   font-size: xx-small;
 }
 
-a:link{
+a:visited{
   text-decoration-style: solid;
   color: #FFFFB0;
 }
@@ -96,7 +96,7 @@ a:link{
   height: 77.5px;
 }
 
-a:visited{
+a:link{
   text-decoration-style: solid;
   color: #AACD20;
 }
