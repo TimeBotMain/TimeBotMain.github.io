@@ -20,33 +20,27 @@ nav{
 }
 h1{
   padding-left: 5px;
-  text-decoration-line: underline;
-  text-decoration-color: #424649;
+  text-decoration:underline solid #424649;
 }
 h2{
   padding-left: 15px;
-  text-decoration: underline;
-  text-decoration-color: #424649;
+  text-decoration:underline solid #424649;
 }
 h3{
   padding-left: 25px;
-  text-decoration-line: underline;
-  text-decoration-color: #424649;
+  text-decoration:underline solid #424649;
 }
 h4{
   padding-left: 35px;
-  text-decoration: underline;
-  text-decoration-color: #424649;
+  text-decoration:underline solid #424649;
 }
 h5{
   padding-left: 45px;
-  text-decoration-line: underline;
-  text-decoration-color: #424649;
+  text-decoration:underline solid #424649;
 }
 h6{
   padding-left: 55px;
-  text-decoration-line: underline;
-  text-decoration-color: #424649;
+  text-decoration:underline solid #424649;
 }
 
 .h1{
