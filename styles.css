@@ -109,3 +109,9 @@ a:hover{
 footer{
   border-top: solid 2px #323639;
 }
+
+.toSide{
+  position: relative;
+  top: 40px;
+  height: 27px;
+}
